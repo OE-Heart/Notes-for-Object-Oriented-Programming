@@ -104,6 +104,8 @@ find (const string& s);
 #include <ofstream>  // write to file
 ```
 
+![image-20210301164717206](picture/image-20210301164717206.png)
+
 ```c++
 ofstream File1("C:\\test.txt");
 File1 << "Hello world" << std::endl;
